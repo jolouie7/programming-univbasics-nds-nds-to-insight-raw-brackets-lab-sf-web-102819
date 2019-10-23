@@ -20,11 +20,11 @@ def directors_totals(nds)
   # Be sure to return the result at the end!
   
   pp nds
-  # i = 0
-  # while i < nds.length do
-  #   nds[i]["Stephen Spielberg"]
-  #   i += 1
-  # end
+  i = 0
+  while i < nds.length do
+    nds[i]["Stephen Spielberg"]
+    i += 1
+  end
   nds[0]["Stephen Spielberg"]
 end
 
