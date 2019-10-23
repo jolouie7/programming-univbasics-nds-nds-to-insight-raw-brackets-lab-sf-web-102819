@@ -18,6 +18,5 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  puts nds[0]["Stephen Spielberg"]
-  nds
+  nds[0][0]
 end
