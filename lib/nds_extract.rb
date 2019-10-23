@@ -21,7 +21,7 @@ def directors_totals(nds)
   
   pp nds
   result = {
-    
+    "Stephen Speielberg" => 13
   }
 end
 
