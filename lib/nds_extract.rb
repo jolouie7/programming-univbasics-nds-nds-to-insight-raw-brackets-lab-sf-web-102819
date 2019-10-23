@@ -19,6 +19,9 @@ def directors_totals(nds)
   #
   # Be sure to return the result at the end!
   pp nds
-  # puts nds
-  nds[0]
+  i = 0
+  while i < nds.length do
+    nds[i]
+    i += 1
+  end 
 end
