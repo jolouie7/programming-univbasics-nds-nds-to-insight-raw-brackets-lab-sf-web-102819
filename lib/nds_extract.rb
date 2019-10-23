@@ -23,5 +23,6 @@ def directors_totals(nds)
   while i < nds.length do
     nds[i]["Stephen Spielberg"]
     i += 1
-  end 
+  end
+  nds
 end
