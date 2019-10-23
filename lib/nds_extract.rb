@@ -25,7 +25,7 @@ def directors_totals(nds)
   #   nds[i]["Stephen Spielberg"]
   #   i += 1
   # end
-  nds[0][["Stephen Spielberg"]]
+  nds[0]["Stephen Spielberg"]
 end
 
 
