@@ -20,12 +20,9 @@ def directors_totals(nds)
   # Be sure to return the result at the end!
   
   pp nds
-  row_index = 0
-  while row_index < nds.length do
-    puts "Row #{row_index} has #{nds[row_index]} columns"
-    row_index += 1
-  end
-  nds[0]["Stephen Spielberg"]
+  result = {
+    
+  }
 end
 
 
