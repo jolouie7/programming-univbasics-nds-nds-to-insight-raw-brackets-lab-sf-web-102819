@@ -22,7 +22,8 @@ def directors_totals(nds)
   pp nds
   result = {
     "Stephen Spielberg" => 1357566430,
-    "Russo Brothers" => 
+    "Russo Brothers" => 2281002470,
+    
   }
 end
 
