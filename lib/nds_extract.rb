@@ -24,7 +24,8 @@ def directors_totals(nds)
     "Stephen Spielberg"=>1357566430,
     "Russo Brothers"=>2281002470,
     'James Cameron'=>2571020373,
-    'Spike Lee'=> 
+    'Spike Lee'=>256624217,
+    
   }
 end
 
