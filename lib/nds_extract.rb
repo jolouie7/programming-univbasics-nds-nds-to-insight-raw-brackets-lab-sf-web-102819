@@ -18,5 +18,5 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  nds
+  nds[0]
 end
