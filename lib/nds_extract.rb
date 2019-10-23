@@ -25,7 +25,8 @@ def directors_totals(nds)
     "Russo Brothers"=>2281002470,
     'James Cameron'=>2571020373,
     'Spike Lee'=>256624217,
-    'Wachowski Siblings'
+    'Wachowski Siblings'=>806180282,
+    
   }
 end
 
